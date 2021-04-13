@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: slideOne
+title: "Welcome to our second slide! and the edits"
 ---
-Your text
+my edited text is here cj
 Use the left arrow to go back!
